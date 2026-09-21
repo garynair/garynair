@@ -9,9 +9,14 @@ Senior Manager leading Cyber GRC, TPRM, and AI Governance programs across regula
 
 #### Curated framework lists
 - **[ai-governance](https://github.com/garynair/ai-governance)**: regulation, standards, and runtime controls for AI and autonomous agents (NIST AI RMF, EU AI Act, ISO 42001, and more)
-- **[security-frameworks](https://github.com/garynair/security-frameworks)**: NIST CSF, ISO/IEC 27001, and PCI-DSS — standards, implementation guidance, and tooling
+- **[security-frameworks](https://github.com/garynair/security-frameworks)**: NIST CSF, ISO/IEC 27001, PCI-DSS, CIS Controls, DISA STIG, and the CRI Profile
+- **[risk-management](https://github.com/garynair/risk-management)**: gap analysis, qualitative/quantitative risk analysis (FAIR), heat maps, RACI, the risk register, and compensating controls — with starting templates
+- **[vapt](https://github.com/garynair/vapt)**: vulnerability assessment and penetration testing methodology, free tools (Nmap, Nessus Essentials, Burp, Metasploit), MITRE ATT&CK, and building a legal practice lab
 - **[it-audit-controls](https://github.com/garynair/it-audit-controls)**: COBIT, COSO, and ITGC/ITAC for IT and SOX audits
 - **[healthcare-compliance](https://github.com/garynair/healthcare-compliance)**: HIPAA, HITECH, and HITRUST CSF
+- **[finserv-compliance](https://github.com/garynair/finserv-compliance)**: GLBA/FFIEC, NYDFS 500, SEC/FINRA, BSA/AML/OFAC, and model risk management (SR 26-2) for US financial services
+- **[federal-compliance](https://github.com/garynair/federal-compliance)**: FedRAMP, CMMC, NIST SP 800-53/171, FISMA, and writing an SSP/POA&M
+- **[insurance-compliance](https://github.com/garynair/insurance-compliance)**: NAIC Insurance Data Security Model Law, ORSA, and market conduct examinations
 
 #### Pinned work
 - **Legal-Agent-RAG**: RAG-based legal contract knowledge base for fast, cost-efficient clause lookup instead of feeding full documents to an LLM
