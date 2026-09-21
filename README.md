@@ -12,6 +12,9 @@ Senior Manager leading Cyber GRC, TPRM, and AI Governance programs across regula
 - **[security-frameworks](https://github.com/garynair/security-frameworks)**: NIST CSF, ISO/IEC 27001, PCI-DSS, CIS Controls, DISA STIG, and the CRI Profile
 - **[risk-management](https://github.com/garynair/risk-management)**: gap analysis, qualitative/quantitative risk analysis (FAIR), heat maps, RACI, the risk register, and compensating controls — with starting templates
 - **[vapt](https://github.com/garynair/vapt)**: vulnerability assessment and penetration testing methodology, free tools (Nmap, Nessus Essentials, Burp, Metasploit), MITRE ATT&CK, and building a legal practice lab
+- **[privacy](https://github.com/garynair/privacy)**: GDPR, CCPA/CPRA, the US state privacy patchwork, DPIAs, and data subject request handling
+- **[cloud-security](https://github.com/garynair/cloud-security)**: the shared responsibility model, AWS/Azure/GCP-specific security, Zero Trust, CSPM, and SOC 2
+- **[ir-bc-dr](https://github.com/garynair/ir-bc-dr)**: incident response planning, ransomware/scenario playbooks, tabletop exercises, and BIA-driven disaster recovery (RTO/RPO)
 - **[it-audit-controls](https://github.com/garynair/it-audit-controls)**: COBIT, COSO, and ITGC/ITAC for IT and SOX audits
 - **[healthcare-compliance](https://github.com/garynair/healthcare-compliance)**: HIPAA, HITECH, and HITRUST CSF
 - **[finserv-compliance](https://github.com/garynair/finserv-compliance)**: GLBA/FFIEC, NYDFS 500, SEC/FINRA, BSA/AML/OFAC, and model risk management (SR 26-2) for US financial services
