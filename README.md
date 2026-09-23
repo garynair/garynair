@@ -1,6 +1,6 @@
 ### Hi, I'm Girish Nair
 
-Senior Manager leading Cyber GRC, TPRM, and AI Governance programs across regulated financial services, insurance, and healthcare environments.
+Senior Manager leading Cyber GRC, TPRM, and AI Governance programs across regulated financial services, insurance, healthcare, and SaaS environments.
 
 - 🔐 **Focus areas:** Cybersecurity GRC · AI Governance (NIST AI RMF, ISO 42001, EU AI Act) · Third-Party Risk Management · IAM
 - 🧩 **What's in this account:** hands-on AI agent and automation builds (RAG, multi-agent, workflow orchestration) that support GRC and audit work, including evidence collection, tailoring, and research tasks that are usually manual — plus curated, deduplicated reference lists for the compliance frameworks behind that work
