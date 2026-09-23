@@ -2,7 +2,7 @@
 
 Senior Manager leading Cyber GRC, TPRM, and AI Governance programs across regulated financial services, insurance, and healthcare environments.
 
-- 🔐 **Focus areas:** Cybersecurity GRC · Third-Party Risk Management · IAM · AI Governance (NIST AI RMF, ISO 42001)
+- 🔐 **Focus areas:** Cybersecurity GRC · AI Governance (NIST AI RMF, ISO 42001, EU AI Act) · Third-Party Risk Management · IAM
 - 🧩 **What's in this account:** hands-on AI agent and automation builds (RAG, multi-agent, workflow orchestration) that support GRC and audit work, including evidence collection, tailoring, and research tasks that are usually manual — plus curated, deduplicated reference lists for the compliance frameworks behind that work
 - 📜 **Credentials:** 40+ training and certification badges (NIST, ISO 27001/42001, SOX/ITGC, HIPAA, PCI-DSS) on my [Credly wallet](https://www.credly.com/users/garynair) — see the curated framework lists below for the same standards
 - 💼 **More about me:** [LinkedIn](https://www.linkedin.com/in/garynair/)
@@ -24,4 +24,4 @@ Senior Manager leading Cyber GRC, TPRM, and AI Governance programs across regula
 #### Pinned work
 - **Legal-Agent-RAG**: RAG-based contract clause lookup supporting vendor contract review for third-party risk.
 
-More automation work (n8n-based GRC and job-search pipelines) is being cleaned up and will be published here as it's ready.
+More automation work (n8n-based GRC and AI governance pipelines) is being cleaned up and will be published here as it's ready.
