@@ -34,6 +34,8 @@ Also: [finserv-compliance](https://github.com/garynair/finserv-compliance) · [i
 
 #### Credentials and contact
 
-PMP · CompTIA Security+ · Certified ScrumMaster · SAFe Advanced Scrum Master · CISSP (in progress) · ISO/IEC 42001 (in progress). See more on [Credly](https://www.credly.com/users/garynair).
+PMP · CompTIA Security+ · Certified ScrumMaster · SAFe Advanced Scrum Master. See more on [Credly](https://www.credly.com/users/garynair).
+
+In progress: CISSP · ISO/IEC 42001
 
 [LinkedIn](https://www.linkedin.com/in/garynair/)
