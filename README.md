@@ -1,33 +1,41 @@
 ### Hi, I'm Girish Nair
 
-Senior Manager leading Cyber GRC, TPRM, and AI Governance programs across regulated financial services, insurance, healthcare, and SaaS environments.
+Senior Manager in Cyber GRC, third-party risk and AI governance who builds auditable AI and compliance automation.
 
-- 🔐 **Focus areas:** Cybersecurity GRC · AI Governance (NIST AI RMF, ISO 42001, EU AI Act) · Third-Party Risk Management · IAM
-- 🧩 **What's in this account:** hands-on AI agent and automation builds (RAG, multi-agent, workflow orchestration) that support GRC and audit work, including evidence collection, tailoring, and research tasks that are usually manual — plus curated, deduplicated reference lists for the compliance frameworks behind that work
-- 📜 **Credentials:** 40+ training and certification badges (NIST, ISO 27001/42001, SOX/ITGC, HIPAA, PCI-DSS) on my [Credly wallet](https://www.credly.com/users/garynair) — see the curated framework lists below for the same standards
-- 💼 **More about me:** [LinkedIn](https://www.linkedin.com/in/garynair/)
+My Cyber GRC and TPRM work spans regulated financial services, insurance, healthcare and SaaS. My hands-on AI governance work has been in SaaS, a consulting organization and an electrical products exporter.
 
-#### Curated framework lists
-- **[ai-governance](https://github.com/garynair/ai-governance)**: regulation, standards, and runtime controls for AI and autonomous agents (NIST AI RMF, EU AI Act, ISO 42001, and more)
-- **[security-frameworks](https://github.com/garynair/security-frameworks)**: NIST CSF, ISO/IEC 27001, PCI-DSS, CIS Controls, DISA STIG, and the CRI Profile
-- **[risk-management](https://github.com/garynair/risk-management)**: gap analysis, qualitative/quantitative risk analysis (FAIR), heat maps, RACI, the risk register, and compensating controls — with starting templates
-- **[vapt](https://github.com/garynair/vapt)**: vulnerability assessment and penetration testing methodology, free tools (Nmap, Nessus Essentials, Burp, Metasploit), MITRE ATT&CK, and building a legal practice lab
-- **[privacy](https://github.com/garynair/privacy)**: GDPR, CCPA/CPRA, the US state privacy patchwork, DPIAs, and data subject request handling
-- **[cloud-security](https://github.com/garynair/cloud-security)**: the shared responsibility model, AWS/Azure/GCP-specific security, Zero Trust, CSPM, and SOC 2
-- **[ir-bc-dr](https://github.com/garynair/ir-bc-dr)**: incident response planning, ransomware/scenario playbooks, tabletop exercises, and BIA-driven disaster recovery (RTO/RPO)
-- **[it-audit-controls](https://github.com/garynair/it-audit-controls)**: COBIT, COSO, and ITGC/ITAC for IT and SOX audits
-- **[healthcare-compliance](https://github.com/garynair/healthcare-compliance)**: HIPAA, HITECH, and HITRUST CSF
-- **[finserv-compliance](https://github.com/garynair/finserv-compliance)**: GLBA/FFIEC, NYDFS 500, SEC/FINRA, BSA/AML/OFAC, and model risk management (SR 26-2) for US financial services
-- **[federal-compliance](https://github.com/garynair/federal-compliance)**: FedRAMP, CMMC, NIST SP 800-53/171, FISMA, and writing an SSP/POA&M
-- **[insurance-compliance](https://github.com/garynair/insurance-compliance)**: NAIC Insurance Data Security Model Law, ORSA, and market conduct examinations
+#### Flagship builds
 
-#### Featured work
-- **[grc-case-studies](https://github.com/garynair/grc-case-studies)**: open, team-based GRC case studies with task sheets, capstones and answer keys. First case: a five-week simulation of the 2014 JPMorgan Chase breach covering asset inventory, MFA exception management, and NIST CSF/FFIEC mapping
-- **[ai-governance](https://github.com/garynair/ai-governance)**: AI regulation, standards, and runtime controls for autonomous agents
-- **[risk-management](https://github.com/garynair/risk-management)**: the risk-management method end to end, from gap analysis and FAIR to the risk register, with starting templates
-- **[it-audit-controls](https://github.com/garynair/it-audit-controls)**: COBIT, COSO, and ITGC/ITAC guidance for IT and SOX audits
-- **[finserv-compliance](https://github.com/garynair/finserv-compliance)**: the US financial-services regulatory perimeter: banking, securities, and financial crimes
-- **[security-frameworks](https://github.com/garynair/security-frameworks)**: NIST CSF, ISO/IEC 27001, PCI-DSS, and CIS Controls implementation guidance
-- **[Legal-Agent-RAG](https://github.com/garynair/Legal-Agent-RAG)**: RAG-based contract clause lookup supporting vendor contract review for third-party risk.
+| Project | What it shows |
+|---|---|
+| **[ai-risk-triage](https://github.com/garynair/ai-risk-triage)** | Turns an AI use-case intake form into an auditable risk-register entry: an LLM drafts the analysis and deterministic rules apply EU AI Act tiers, NIST AI RMF and ISO/IEC 42001 Annex A, followed by human review |
+| **[windows-log-analysis](https://github.com/garynair/windows-log-analysis)** | A local Windows event-log monitoring stack (Grafana Alloy → Loki → Grafana on WSL/Docker) with an optional AI digest through Python or n8n |
+| **[grc-case-studies](https://github.com/garynair/grc-case-studies)** | Team-based GRC exercises with task sheets, capstones and answer keys, starting with a five-week simulation of the 2014 JPMorgan Chase breach |
 
-More automation work (n8n-based GRC and AI governance pipelines) is being cleaned up and will be published here as it's ready.
+#### What I build
+
+- **Governance workflows** that separate deterministic control rules from model judgment and keep a human approval step
+- **Data and analytics agents** with read-only data access, e.g. [data-analyst-agent](https://github.com/garynair/data-analyst-agent) (n8n, Supabase Postgres, Gemini) and [eCom-data-agent](https://github.com/garynair/eCom-data-agent) (four-agent pipeline with a deployment approval gate)
+- **Security monitoring** stacks that run locally on Docker and summarize events for review
+- **Training material** that turns frameworks into exercises teams can practice on
+
+#### Governance domains
+
+Cyber GRC · AI governance (NIST AI RMF, ISO/IEC 42001, EU AI Act) · Third-party risk management · IAM and control assurance · SOX/ITGC · Audit-ready evidence and executive reporting
+
+#### GRC Atlas: reference libraries
+
+Curated, practitioner-oriented guides to the frameworks behind this work, with primary sources and starter templates.
+
+- **[ai-governance](https://github.com/garynair/ai-governance)**: AI regulation, standards and runtime controls for autonomous agents
+- **[security-frameworks](https://github.com/garynair/security-frameworks)**: NIST CSF, ISO/IEC 27001, PCI DSS and CIS Controls
+- **[risk-management](https://github.com/garynair/risk-management)**: gap analysis, FAIR, the risk register and compensating controls
+- **[it-audit-controls](https://github.com/garynair/it-audit-controls)**: COBIT, COSO and ITGC/ITAC for IT and SOX audits
+
+Also: [finserv-compliance](https://github.com/garynair/finserv-compliance) · [insurance-compliance](https://github.com/garynair/insurance-compliance) · [healthcare-compliance](https://github.com/garynair/healthcare-compliance) · [federal-compliance](https://github.com/garynair/federal-compliance) · [privacy](https://github.com/garynair/privacy) · [cloud-security](https://github.com/garynair/cloud-security) · [IR-BC-DR](https://github.com/garynair/IR-BC-DR) · [vapt](https://github.com/garynair/vapt)
+
+#### Credentials and contact
+
+PMP · CompTIA Security+ · Certified ScrumMaster · SAFe Advanced Scrum Master. See more on [Credly](https://www.credly.com/users/garynair).
+
+[LinkedIn](https://www.linkedin.com/in/garynair/)
