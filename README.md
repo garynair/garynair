@@ -6,7 +6,7 @@ Senior Manager in Cyber GRC, AI governance, TPRM, IAM and program management who
 
 | Project | What it shows |
 |---|---|
-| **[ai-risk-triage](https://github.com/garynair/ai-risk-triage)** | Turns an AI use-case intake form into an auditable risk-register entry: an LLM drafts the analysis and deterministic rules apply EU AI Act tiers, NIST AI RMF and ISO/IEC 42001 Annex A, followed by human review |
+| **[ai-risk-triage](https://github.com/garynair/ai-risk-triage)** | Turns an AI use-case intake form into an auditable risk-register entry: an LLM drafts the analysis and deterministic rules apply EU AI Act tiers, NIST AI RMF and ISO/IEC 42001 Annex A, followed by human-in-the-loop review |
 | **[windows-log-analysis](https://github.com/garynair/windows-log-analysis)** | A local Windows event-log monitoring stack (Grafana Alloy → Loki → Grafana on WSL/Docker) with an optional AI digest through Python or n8n |
 | **[grc-case-studies](https://github.com/garynair/grc-case-studies)** | Team-based GRC exercises with task sheets, capstones and answer keys, starting with a five-week simulation of the 2014 JPMorgan Chase breach |
 
