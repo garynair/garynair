@@ -1,6 +1,6 @@
 ### Hi, I'm Girish Nair
 
-Senior Manager across Cyber GRC, AI governance, third-party risk, identity governance and program management, building auditable AI and compliance automation. My work spans regulated financial services, insurance, healthcare, SaaS, consulting and electrical products export.
+Senior Manager in Cyber GRC, AI governance, TPRM, IAM and program management who builds auditable AI and compliance automation. My work spans regulated financial services, insurance, healthcare, SaaS, consulting and electrical products export.
 
 #### Flagship builds
 
