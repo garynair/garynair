@@ -1,4 +1,4 @@
-### Hi, I'm Girish Nair
+### Hi, I'm Girish (Gary) Nair
 
 Senior Manager leading Cyber GRC, AI governance, TPRM, IAM and program management across banking and financial services, insurance, healthcare, SaaS, manufacturing, federal government and technology consulting, with a focus on Responsible AI and compliance automation.
 
