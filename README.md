@@ -2,16 +2,25 @@
 
 Senior Manager leading Cyber GRC, AI governance, TPRM, SecOps, IAM and program management across banking and financial services, insurance, healthcare, SaaS, manufacturing, federal government and technology consulting, with a focus on Responsible AI and compliance automation.
 
-#### Flagship builds
+#### Flagship: Vendor Tierline
+
+**[vendor-tierline](https://github.com/garynair/vendor-tierline)** · [Live demo](https://vendor-tierline.vercel.app) (one-click read-only login)
+
+Engagement-level third-party risk tiering. A weighted questionnaire scores each vendor engagement, a reviewer confirms or overrides the computed tier with a recorded reason, and tier-specific due diligence follows. Includes an Insights dashboard (tier mix, pipeline, override audit trail, follow-up aging) and org-scoped row-level security. Designed around NIST CSF 2.0 GV.SC and ISO/IEC 27001:2022 A.5.19 to A.5.22. Next.js, Supabase, Vercel.
+
+[![Vendor Tierline insights dashboard](https://raw.githubusercontent.com/garynair/vendor-tierline/main/docs/dashboard.png)](https://vendor-tierline.vercel.app)
+
+#### More builds
 
 | Project | What it shows |
 |---|---|
 | **[ai-risk-triage](https://github.com/garynair/ai-risk-triage)** | Turns an AI use-case intake form into an auditable risk-register entry: an LLM drafts the analysis and deterministic rules apply EU AI Act tiers, NIST AI RMF and ISO/IEC 42001 Annex A, followed by human-in-the-loop review |
-| **[windows-log-analysis](https://github.com/garynair/windows-log-analysis)** | A local Windows event-log monitoring stack (Grafana Alloy → Loki → Grafana on WSL/Docker) with an optional AI digest through Python or n8n |
 | **[grc-case-studies](https://github.com/garynair/grc-case-studies)** | Team-based GRC exercises with task sheets, capstones and answer keys, starting with a five-week simulation of the 2014 JPMorgan Chase breach |
+| **[windows-log-analysis](https://github.com/garynair/windows-log-analysis)** | A local Windows event-log monitoring stack (Grafana Alloy → Loki → Grafana on WSL/Docker) with an optional AI digest through Python or n8n |
 
 #### What I build
 
+- **GRC applications** that turn a governance process into a working system with human review and an audit trail, e.g. [vendor-tierline](https://github.com/garynair/vendor-tierline)
 - **Governance workflows** that separate deterministic control rules from model judgment and keep a human approval step
 - **Data and analytics agents** with read-only data access, e.g. [data-analyst-agent](https://github.com/garynair/data-analyst-agent) (n8n, Supabase Postgres, Gemini) and [eCom-data-agent](https://github.com/garynair/eCom-data-agent) (four-agent pipeline with a deployment approval gate)
 - **Security monitoring** stacks that run locally on Docker and summarize events for review
