@@ -38,8 +38,8 @@ Also: finserv-compliance · insurance-compliance · healthcare-compliance · fed
 
 Credentials and contact
 
-PMP · CompTIA Security+ · Certified ScrumMaster · SAFe Advanced Scrum Master. See more on Credly.
+PMP · CompTIA Security+ · AI Security and Governance · Certified ScrumMaster · SAFe Advanced Scrum Master. See more on Credly.
 
-In progress: CISSP · ISO/IEC 42001
+In progress: CISSP · ISO/IEC 42001 Lead Auditor/Implementor
 
 LinkedIn
